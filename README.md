@@ -16,9 +16,9 @@ I'm able to developer android and desktop softwares and some microsservices.
 
 Thanks for your visit! If you want, you can contact clicking [here](https://wa.link/192o66) or me scanning the qr code below
 
-<p align="center">
+
 ![wa link_192o66](https://user-images.githubusercontent.com/60458392/228696089-68061d7a-e474-46e8-9f65-092db77abe99.png)
-</p>
+
 <!--
 **arlss89/arlss89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
