@@ -16,7 +16,7 @@ I'm able to developer android and desktop softwares and some microsservices.
 
 Thanks for your visit! If you want, you can contact clicking [here](https://wa.link/192o66) or me scanning the qr code below
 
-<img align="center" src="https://user-images.githubusercontent.com/60458392/228697397-c8105002-7c0a-41ad-8803-0d606d9df145.png" width="300">
+<img align="center" src="https://user-images.githubusercontent.com/60458392/228697397-c8105002-7c0a-41ad-8803-0d606d9df145.png" width="200">
 
 
 
