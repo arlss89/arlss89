@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlss89)](https://github.com/anuraghazra/github-readme-stats)
 
-Yeah, my stats is not a big deal, but I'm better at gitlab :sweat_smile:
+Yeah, my stats is not a big deal, but I'm better on gitlab :sweat_smile:
 
 Welcome to my profile, I'm gad you are here.
 
