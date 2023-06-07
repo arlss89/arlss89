@@ -14,7 +14,7 @@ I'm able to developer android and desktop softwares and some microsservices.
 🌱 I’m currently learning and improving my skills in the cited languages
 🤔 I’m looking for help with hair tips 😄😄😄
 
-Thanks for your visit! If you want, you can contact me clicking [here](https://wa.link/192o66) or me scanning the qr code below
+Thanks for your visit! If you want, you can contact me clicking [here](https://wa.link/192o66), or scanning the qr code below, or via [linkedin](https://www.linkedin.com/in/alyson-reis/)
 
 <img align="center" src="https://user-images.githubusercontent.com/60458392/228697397-c8105002-7c0a-41ad-8803-0d606d9df145.png" width="200">
 
