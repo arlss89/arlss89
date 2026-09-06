@@ -14,6 +14,7 @@ A reference architecture for secure identity workflows in a distributed applicat
 - Session and token lifecycle
 - Authorization boundaries
 - Event-driven integration between identity services
+- Customizable authentication journeys
 
 ## Architecture
 
@@ -25,8 +26,11 @@ The reference solution separates:
 - Notification delivery
 - Authorization and access decisions
 - Integration events
+- User-facing authentication screens
 
-Each boundary can evolve independently while maintaining explicit contracts and traceability.
+An Ory-based identity layer can provide a flexible foundation for customized authentication journeys, while the application controls the user-facing HTML experience and keeps identity and authorization concerns isolated from presentation details.
+
+This approach can reduce coupling to provider-specific interfaces and allow backend and frontend components to evolve independently.
 
 ## Engineering considerations
 
@@ -38,6 +42,8 @@ Each boundary can evolve independently while maintaining explicit contracts and 
 - Contract and integration testing
 - Failure handling for external notification providers
 - Safe rollout of authentication policy changes
+- Secure frontend/backend integration
+- Accessible and maintainable authentication interfaces
 
 ## Scope
 
