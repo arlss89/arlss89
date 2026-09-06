@@ -29,6 +29,15 @@ AI helps me accelerate repetitive work, explore alternatives and improve develop
 - [Kafka Producer](https://github.com/arlss89/kafka-producer) · [Kafka Consumer](https://github.com/arlss89/kafka-consumer) — Event-driven messaging examples.
 - [Spring Design Patterns](https://github.com/arlss89/lab-padroes-projeto-spring) — Spring-based design pattern examples.
 
+## Architecture case studies
+
+- [Identity and Authentication Reference Architecture](./case-studies/identity-reference-architecture.md)
+- [Event-Driven Processing Reference](./case-studies/event-driven-processing.md)
+- [On-Device Movement Analysis](./case-studies/on-device-movement-analysis.md)
+- [Wearable Safety Platform](./case-studies/wearable-safety-platform.md)
+
+These case studies are generalized and intentionally exclude proprietary code, private infrastructure, credentials and business-specific identifiers.
+
 ## Engineering interests
 
 I enjoy turning complex requirements into simple, reliable systems; investigating production problems; improving developer experience; and documenting the decisions behind an architecture.
