@@ -9,11 +9,13 @@ I design and build backend services using Java, Kotlin and Spring Boot, with exp
 - Java 17, Kotlin and Spring Boot
 - Microservices and REST APIs
 - Identity, authentication, passwordless flows and MFA
+- Ory-based identity architectures and customizable authentication journeys
 - RabbitMQ, Kafka and event-driven architecture
 - Azure, Docker, Kubernetes and CI/CD
 - MongoDB, PostgreSQL and Cosmos DB
 - Automated testing, contract testing and observability
 - Python for automation and data-oriented tooling
+- Frontend/backend integration for identity experiences
 
 ## AI-assisted engineering
 
