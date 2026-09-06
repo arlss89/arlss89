@@ -15,6 +15,12 @@ I design and build backend services using Java, Kotlin and Spring Boot, with exp
 - Automated testing, contract testing and observability
 - Python for automation and data-oriented tooling
 
+## AI-assisted engineering
+
+I use AI as an engineering tool throughout the software development lifecycle — from requirements analysis and architecture exploration to implementation, testing, documentation and troubleshooting.
+
+AI helps me accelerate repetitive work, explore alternatives and improve developer productivity. Every suggestion is reviewed and validated with engineering judgment, automated tests, security checks and maintainability concerns.
+
 ## Selected public projects
 
 - [MCP Session Bridge](https://github.com/arlss89/mcp-session-bridge) — Firefox extension and native messaging host for securely synchronizing browser sessions with local MCP token stores.
