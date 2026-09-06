@@ -1,36 +1,36 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlss89)](https://github.com/anuraghazra/github-readme-stats)
+# Alyson Reis
 
-Yeah, my stats is not a big deal, but I'm better at gitlab :sweat_smile:
+Senior Backend Engineer focused on identity, authentication and distributed systems.
 
-Welcome to my profile, I'm gad you are here.
+I design and build backend services using Java, Kotlin and Spring Boot, with experience in microservices, event-driven architecture, APIs, messaging, cloud platforms and production reliability. I currently work in Identity & Access Management, building authentication, contact verification and user identity solutions.
 
-### Maybe you are looking for my skills, so I'll resume to you:
-- Languages: Java, Kotlin, Python.
-- Frameworks: Django, SpringBoot and some Python's frameworks used in Data Science.
+## Core expertise
 
-I'm able to developer android and desktop softwares and some microsservices.
+- Java 17, Kotlin and Spring Boot
+- Microservices and REST APIs
+- Identity, authentication, passwordless flows and MFA
+- RabbitMQ, Kafka and event-driven architecture
+- Azure, Docker, Kubernetes and CI/CD
+- MongoDB, PostgreSQL and Cosmos DB
+- Automated testing, contract testing and observability
+- Python for automation and data-oriented tooling
 
-🌱 I’m currently learning and improving my skills in the cited languages
-🤔 I’m looking for help with hair tips 😄😄😄
+## Selected public projects
 
-Thanks for your visit! If you want, you can contact me clicking [here](https://wa.link/192o66), or scanning the qr code below, or via [linkedin](https://www.linkedin.com/in/alyson-reis/)
+- [MCP Session Bridge](https://github.com/arlss89/mcp-session-bridge) — Firefox extension and native messaging host for securely synchronizing browser sessions with local MCP token stores.
+- [Voting Platform](https://github.com/arlss89/voting-platform) — Modular REST API with PostgreSQL, RabbitMQ, an outbox workflow, external-service integration and concurrency considerations.
+- [Credit Application System](https://github.com/arlss89/credit-application-system) — Java/Kotlin Spring Boot API demonstrating domain modeling, persistence and database migrations.
+- [Kafka Producer](https://github.com/arlss89/kafka-producer) · [Kafka Consumer](https://github.com/arlss89/kafka-consumer) — Event-driven messaging examples.
+- [Spring Design Patterns](https://github.com/arlss89/lab-padroes-projeto-spring) — Spring-based design pattern examples.
 
-<img align="center" src="https://user-images.githubusercontent.com/60458392/228697397-c8105002-7c0a-41ad-8803-0d606d9df145.png" width="200">
+## Engineering interests
 
+I enjoy turning complex requirements into simple, reliable systems; investigating production problems; improving developer experience; and documenting the decisions behind an architecture.
 
+Some of my independent work explores privacy-first mobile products, on-device processing and cloud-native platforms.
 
-<!--
-**arlss89/arlss89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me
 
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/alyson-reis/)
+- [GitHub](https://github.com/arlss89)
 
-- 
-- 
-- 
-- 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
